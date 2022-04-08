@@ -7,20 +7,22 @@
 
 ## Hi there, I'm Juan - aka [JBxss](https://github.com/JBxss)👋
 > Systems Engineer in Progress
+
 I am Junior Frontend developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Frontend development. Fast learner, hard worker and team player.
 
 I want to learn something new every day that's why I love experimenting with new technologies and building small projects.
 
 ## Programming Languages 🛠️
-<img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python">
-<img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript">
-<img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react">
-<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git">
-<img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github">
+<img align="left" src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python">
+<img align="left" src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript">
+<img align="left" src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react">
+<img align="left" src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git">
+<img align="left" src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github">
 
 ## My GitHub Stats 🏆
-[![Juan Bossa GitHub Stats](https://github-readme-stats.vercel.app/api?username=JBxss&show_icons=true&count_private=true)](https://github.com/JBxss)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBxss&show_icons=true)
+[![Juan Bossa GitHub Stats](https://github-readme-stats.vercel.app/api?username=JBxss&show_icons=true&count_private=true)](https://github.com/JBxss)
+
 
 ## Connect with Me 🤝🏻
 
