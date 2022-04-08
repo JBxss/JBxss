@@ -1,16 +1,38 @@
-### Hi there, I'm Juan - aka [JBxss](https://github.com/JBxss)👋
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
 
-<!--
-**JBxss/JBxss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="430" width="400" align="right">
 
-Here are some ideas to get you started:
+## Hi there, I'm Juan - aka [JBxss](https://github.com/JBxss)👋
+> Systems Engineer in Progress
+I am Junior Frontend developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Frontend development. Fast learner, hard worker and team player.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want to learn something new every day that's why I love experimenting with new technologies and building small projects.
+
+## Programming Languages 🛠️
+<img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python">
+<img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript">
+<img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react">
+<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git">
+<img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github">
+
+## My GitHub Stats 🏆
+[![Juan Bossa GitHub Stats](https://github-readme-stats.vercel.app/api?username=JBxss&show_icons=true&count_private=true)](https://github.com/JBxss)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBxss&show_icons=true)
+
+## Connect with Me 🤝🏻
+
+<a href="https://twitter.com/JBxss_">
+  <img align="left" alt="Juan Bossa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jbxss/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:juanseb100@gmail.com">
+  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+</a>
+<a href="https://github.com/JBxss">
+  <img align="left" alt="Portafolio Web" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlechrome.svg" />
+</a>
