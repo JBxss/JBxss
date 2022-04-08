@@ -2,10 +2,10 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
+</br>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="400" width="400" align="right">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="430" width="400" align="right">
-
-## Hi there, I'm Juan - aka [JBxss](https://github.com/JBxss)👋
+## Hi there, I'm Juan - aka [JBxss](https://github.com/JBxss) 👋
 > Systems Engineer in Progress
 
 I am Junior Frontend developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Frontend development. Fast learner, hard worker and team player.
@@ -18,7 +18,6 @@ I want to learn something new every day that's why I love experimenting with new
   - Learning about Data Science and Frontend Architecture. 🌱
   - Eternal Student and Gamer. 🎮
  </br>
- 
 ## Programming Languages 🛠️
 <img align="left" src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python">
 <img align="left" src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript">
