@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 </br>
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="400" width="400" align="right">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="440" width="390" align="right">
 
 ## Hi there, I'm Juan - aka [JBxss](https://github.com/JBxss) 👋
 > Systems Engineer in Progress
@@ -18,6 +18,7 @@ I want to learn something new every day that's why I love experimenting with new
   - Learning about Data Science and Frontend Architecture. 🌱
   - Eternal Student and Gamer. 🎮
  </br>
+ 
 ## Programming Languages 🛠️
 <img align="left" src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python">
 <img align="left" src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript">
