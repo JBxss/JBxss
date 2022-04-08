@@ -12,12 +12,19 @@ I am Junior Frontend developer able to build a Web presence from the ground up -
 
 I want to learn something new every day that's why I love experimenting with new technologies and building small projects.
 
+## About Me 👨🏻‍💻
+  - Studying Systems Engineering at Simon Bolivar university's in Barranquilla. 🎓
+  - While Coding, Listening Music and developing useful code. ⭐️
+  - Learning about Data Science and Frontend Architecture. 🌱
+  - Eternal Student and Gamer. 🎮
+ 
 ## Programming Languages 🛠️
 <img align="left" src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python">
 <img align="left" src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript">
 <img align="left" src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react">
 <img align="left" src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git">
 <img align="left" src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github">
+</br>
 
 ## My GitHub Stats 🏆
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBxss&show_icons=true)
