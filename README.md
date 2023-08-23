@@ -1,49 +1,49 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jbxss&label=Profile%20views&color=ef0515&style=flat" alt="jbxss" /> </p>
+
+<h1 align="center">Hi 👋, I'm Juan Bossa</h1>
+<h3 align="center">A passionate systems engineer student & developer from Colombia.</h3>
+
+
+
+- 🔭 I’m currently working on [API-NodeJS-PostgreSQL-JWT](https://github.com/JBxss/API-NodeJS-PostgreSQL-JWT)
+
+- 🌱 I’m currently learning **backend languages**
+
+- 👯 I’m looking to collaborate **with other creators**
+
+- 👨‍💻 All of my projects are available at [jbxss.github.io](https://jbxss.github.io/)
+
+- 📫 How to reach me **juanseb100@gmail.com**
+
+- 📄 Know about my experiences [on my CV](https://drive.google.com/drive/folders/1Jjtmv2XNjMguUCpjJJ94yt6Hgwh0aoh_)
+
+- ⚡ Fun fact: **I love play videogames**
+
+<br>
+
+## Connect with me 🤝🏻
+<p align="left">
+<a href="https://linkedin.com/in/juan sebastian bossa alvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan sebastian bossa alvarez" height="30" width="40" /></a>
+<a href="https://discord.gg/jbossa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jbossa" height="30" width="40" /></a>
 </p>
-</br>
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="440" width="390" align="right">
 
-## Hi there, I'm Juan - aka [JBxss](https://github.com/JBxss) 👋
-> Systems Engineer in Progress
+<br>
 
-I am Junior Frontend developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Frontend development. Fast learner, hard worker and team player.
+## Languages and Tools 🛠️ 
+<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-I want to learn something new every day that's why I love experimenting with new technologies and building small projects.
+<br>
 
-## About Me 👨🏻‍💻
-  - Studying Systems Engineering at Simon Bolivar university's in Barranquilla. 🎓
-  - While Coding, Listening Music and developing useful code. ⭐️
-  - Learning about Data Science and Frontend Architecture. 🌱
-  - Eternal Student and Gamer. 🎮
- </br>
+## My Stats 🏆 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbxss&show_icons=true&locale=en&layout=compact" alt="jbxss" /></p>
  
-## Programming Languages 🛠️
-<img align="left" src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python">
-<img align="left" src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript">
-<img align="left" src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react">
-<img align="left" src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git">
-<img align="left" src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github">
-</br>
-</br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbxss&show_icons=true&locale=en" alt="jbxss" /></p>
 
-## My GitHub Stats 🏆
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBxss&show_icons=true)
-[![Juan Bossa GitHub Stats](https://github-readme-stats.vercel.app/api?username=JBxss&show_icons=true&count_private=true)](https://github.com/JBxss)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbxss&" alt="jbxss" /></p>
 
 
-## Connect with Me 🤝🏻
 
-<a href="https://twitter.com/JBxss_">
-  <img align="left" alt="Juan Bossa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/jbxss/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:juanseb100@gmail.com">
-  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
-</a>
-<a href="https://github.com/JBxss">
-  <img align="left" alt="Portafolio Web" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlechrome.svg" />
-</a>
+
+
+
