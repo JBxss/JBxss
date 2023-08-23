@@ -23,8 +23,7 @@
 
 ## Connect with me 🤝🏻
 <p align="left">
-<a href="https://linkedin.com/in/juan sebastian bossa alvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan sebastian bossa alvarez" height="30" width="40" /></a>
-<a href="https://discord.gg/jbossa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jbossa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jbxss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan sebastian bossa alvarez" height="30" width="40" /></a>
 </p>
 
 <br>
