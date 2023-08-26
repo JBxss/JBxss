@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [API-NodeJS-PostgreSQL-JWT](https://github.com/JBxss/API-NodeJS-PostgreSQL-JWT)
+- 🔭 I’m currently working on [My Portafolio](https://github.com/JBxss/JBxss.github.io)
 
 - 🌱 I’m currently learning **backend languages**
 
