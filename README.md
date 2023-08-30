@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jbxss&label=Profile%20views&color=ef0515&style=flat" alt="jbxss" /> </p>
 
-<h1 align="center">Hi 👋, I'm Juan Bossa</h1>
+<h1 align="center">Hi 👋🏼, I'm Juan Bossa</h1>
 <h3 align="center">A passionate systems engineer student & developer from Colombia.</h3>
 
 
