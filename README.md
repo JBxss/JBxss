@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [My Portafolio](https://github.com/JBxss/JBxss.github.io)
+- 🔭 I’m currently working on [HM-Electrodomesticos](https://github.com/JBxss/HM-Electrodomesticos)
 
 - 🌱 I’m currently learning **backend languages**
 
