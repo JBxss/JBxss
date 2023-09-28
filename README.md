@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [HM-Electrodomesticos](https://github.com/JBxss/HM-Electrodomesticos)
+- 🔭 I’m currently working on [HM-Electrodomesticos](https://github.com/JBxss/HM-Electrodomesticos) and [FindAMorty](https://github.com/JBxss/FindAMorty)
 
 - 🌱 I’m currently learning **backend languages**
 
